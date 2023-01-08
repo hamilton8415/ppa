@@ -1,0 +1,15 @@
+Package: libfshydrodynamics
+Version: 1.0.0
+Architecture: amd64
+Maintainer: Andrew Hamilton
+Installed-Size: 688
+Depends: libeigen3-dev (>=3.4.0)
+Filename: ./libfshydrodynamics_1.0.0_amd64.deb
+Size: 84610
+MD5sum: 576a21d41b6d88fb293030bd54fe1354
+SHA1: 8414c3806a478d62f1f7a3f5fa1a50613a0e1b8f
+SHA256: 33cdf28067260dfd4dbc8dd03c2736399fc4d9c014621415bec651c4ccb981ed
+Section: devel
+Priority: optional
+Description: Free Surface Hydrodynamics Library
+
