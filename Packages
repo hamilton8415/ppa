@@ -28,3 +28,18 @@ Section: devel
 Priority: optional
 Description: Free Surface Hydrodynamics Library
 
+Package: libfshydrodynamics
+Version: 1.1.0
+Architecture: amd64
+Maintainer: Andrew Hamilton
+Installed-Size: 728
+Depends: libboost-filesystem-dev
+Filename: ./libfshydrodynamics_1.1.0_amd64.deb
+Size: 87356
+MD5sum: 17a0408ceb5868d78a88d657912ffb46
+SHA1: 8ef12aa31aba3d1f9f551011d50eeb3b4469e98a
+SHA256: 903df700dbe8952b51e00963e24f69a05c4f3ceb3c3c6225138871663605540d
+Section: devel
+Priority: optional
+Description: Free Surface Hydrodynamics Library
+
